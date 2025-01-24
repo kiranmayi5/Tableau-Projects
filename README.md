@@ -16,6 +16,11 @@ I’m **Kiran Mayi Hari Babu**, a data enthusiast passionate about creating acti
    - **Skills**: Scatterplots, bar charts, and trend analysis.
    - **Live Dashboard**: [View Here](https://public.tableau.com/views/GlobalIQTrendsDashboard/Dashboard1)
 
+### 3. **Tinder Engagement Dashboard**
+   - **Description**: Analyzes Tinder user engagement trends by exploring app usage, swipe behavior, and ghosting rates.
+   - **Skills**: KPI tracking, scatterplots, pie charts, and trend analysis.
+   - **Live Dashboard**: [View Here](https://public.tableau.com/app/profile/kiran.mayi.hari.babu/viz/TinderEngagementInsights/TinderEngagementInsights)
+
 ---
 
 ## 🛠️ Tools & Skills
