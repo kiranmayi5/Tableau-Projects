@@ -1,13 +1,28 @@
-This Tableau dashboard analyzes Tinder user engagement by exploring key behavioral trends such as app opens, swipe activity, and ghosting rates.
+# 🔥 Tinder Engagement Insights Dashboard (Tableau)
 
-Key Features:
+## 📌 **Project Overview**
+This Tableau dashboard analyzes **Tinder user engagement trends**, exploring **how user behavior, education, and swipe activity impact app interactions**. The goal is to uncover patterns in engagement, ghosting trends, and overall app usage.
 
-- Total App Opens & Engagement Rate: Tracks overall user activity and interaction levels.
-- Ghostings Based on Education: Analyzes ghosting trends across different education levels.
-- Total App Opens vs. Swipe Likes: Examines the correlation between swiping behavior and app usage.
-- Ghosting Rate Over Time: Visualizes ghosting trends by year and education background.
-- App Opens by Age: Shows how engagement varies across different age groups.
+### **🌍 Business Context**
+Understanding **user engagement on dating apps** is critical for product teams looking to optimize user experience. This project provides insights into:  
+- **What factors contribute to higher engagement?**  
+- **How does education level impact ghosting behavior?**  
+- **Which user age groups show the highest app activity?**  
 
-This project highlights my ability to create insightful visualizations that uncover meaningful patterns in user behavior. It demonstrates how data can be used to drive actionable insights for business growth and user engagement strategies. 
+## 📊 **Dashboard Features**
+✅ **Total App Opens & Engagement Rate** – Tracks overall app usage and interaction levels.  
+✅ **Ghosting Based on Education** – Pie chart showing how ghosting rates vary by education level.  
+✅ **Total App Opens vs. Swipe Likes** – Scatter plot examining the correlation between swiping behavior and app usage.  
+✅ **Ghosting Rate Over Time** – Bar chart visualizing ghosting trends by year and education background.  
+✅ **App Opens by Age** – Line chart showing how engagement varies across different age groups.  
+✅ **Dynamic Filters** – Users can filter **year & age range** to explore trends for specific segments.  
 
-You can explore the live dashboard here: https://public.tableau.com/app/profile/kiran.mayi.hari.babu/viz/TinderEngagementInsights/TinderEngagementInsights
+### 🛠 **Tools Used**
+- **Tableau** – Data visualization & interactive dashboard creation.  
+- **Data Source:** Simulated Tinder user behavior dataset (Kaggle)
+- **Techniques:** KPI Cards, Time-Series Analysis, Scatter Plots, Bar Charts, Pie Charts, and Interactive Filters.  
+
+## 🔗 **Explore the Live Dashboard**
+Click below to interact with the dashboard:  
+🔗 [Tinder Engagement Insights](https://public.tableau.com/app/profile/kiran.mayi.hari.babu/viz/TinderEngagementInsights/TinderEngagementInsights#1)
+
