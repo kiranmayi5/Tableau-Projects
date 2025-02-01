@@ -23,7 +23,7 @@ Understanding how **economic and educational factors influence intelligence** is
 
 ### 🛠 **Tools Used**  
 - **Tableau** – Interactive data visualization.  
-- **Data Source:** Public IQ, income, and education expenditure datasets.  
+- **Data Source:** Kaggle.com 
 - **Techniques:** Heatmaps, KPI Metrics, Trend Analysis, Dynamic Filters, and Correlation Plots.  
 
 ## 🔗 **Explore the Live Dashboard**  
