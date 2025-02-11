@@ -24,7 +24,7 @@ Governments and healthcare organizations relied on vaccination data to **track p
 
 ## 🔗 **Explore the Live Dashboard**  
 Click below to interact with the dashboard:  
-🔗 [COVID-19 Vaccination Dashboard](https://public.tableau.com/authoring/Covidportfolio_16991567596020/VaccinationDash#2)
+🔗 [COVID-19 Vaccination Dashboard](https://public.tableau.com/app/profile/kiran.mayi.hari.babu/viz/Covidportfolio_16991567596020/VaccinationDash)
 
 ---  
 
