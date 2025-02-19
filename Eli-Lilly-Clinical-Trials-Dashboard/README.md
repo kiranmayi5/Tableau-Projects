@@ -33,4 +33,11 @@ This visualization helps in understanding how clinical trials are distributed, h
 
 ---
 
+## 📂 Related Repository (Full Project)
+This dashboard is part of an **end-to-end data analytics project**, where data was cleaned and processed using Python before visualization in Tableau.  
+
+🔗 **Full Project (Data Cleaning + Visualization):** [Eli Lilly Clinical Trials Analysis - Data Analytics Repository](https://github.com/kiranmayi5/Data-Analytics-Projects/tree/main/Eli-Lilly-Clinical-Trials-Analysis)
+
+---
+
 🚀 This project showcases my ability to analyze healthcare data, transform raw data into insights, and build interactive Tableau dashboards!
