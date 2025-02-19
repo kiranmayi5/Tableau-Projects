@@ -24,6 +24,15 @@ Welcome! I'm **Kiran Mayi Hari Babu**, a data professional passionate about crea
 - **Skills:** KPI tracking, Scatterplots, Pie charts, Trend analysis.  
 - 🔗 **Live Dashboard:** [View Here](https://public.tableau.com/app/profile/kiran.mayi.hari.babu/viz/TinderEngagementInsights/TinderEngagementInsights) 
 
+### 4. Eli Lilly Clinical Trials Dashboard  
+- **Description:** Analyzes **Eli Lilly's clinical trials**, focusing on **trial phases, intervention types, and global distribution**.  
+- **Key Insights:**  
+  - Oncology and metabolic disorders are **major focus areas**.  
+  - **Drug trials take longer** to complete, especially in later phases.  
+  - **Global distribution** reveals key trial locations in the **US, Europe, and Asia**.  
+- **Skills:** Time-series analysis, KPI tracking, Interactive Maps, Bar Charts, Data Filtering.  
+- **🔗 Live Dashboard:** [View Here](https://public.tableau.com/app/profile/kiran.mayi.hari.babu/viz/Eli-Lilly-Clinical-Trials-Dashboard/Dashboard1)
+  
 ---
 
 ## 🛠 **Tools & Skills**
